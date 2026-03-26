@@ -1,0 +1,11 @@
+aws_region           = "ap-south-1"
+web_instance_type    = "t3.small"
+app_instance_type    = "t3.micro"
+db_instance_class    = "db.t3.micro"
+db_name              = "book_review_db"
+db_username          = "bookreviewadmin"
+db_password          = "ChangeMe123!"
+jwt_secret           = "ChangeThisJwtSecret123!"
+admin_cidr_blocks    = ["223.231.176.80/32"]
+generated_key_name   = "bookreview-web-key"
+private_key_filename = "bookreview-web-key.pem"
