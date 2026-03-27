@@ -238,19 +238,6 @@ Even when the homepage loads, authentication and review workflows still depend o
 
 The best debugging path was to verify one layer at a time instead of guessing from the browser alone.
 
-## Submission Notes
-
-If you are using this project for an assignment or portfolio submission, include:
-
-- the cloud platform used: AWS
-- your Terraform structure overview
-- an architecture diagram
-- the public frontend ALB DNS
-- EC2 screenshots for web and app tiers
-- RDS screenshots for primary and replica
-- screenshots of the UI, login flow, and review flow
-
-`REPORT.md` can be used as the starting point for that submission.
 
 ## Useful Commands
 
