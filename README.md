@@ -21,7 +21,7 @@ Terraform in this folder creates:
 - A read replica for the database tier
 - Security groups that restrict traffic by tier
 - A Terraform-generated SSH key for optional web-tier administration
-
+![alt text](<../../ChatGPT Image Mar 27, 2026, 02_42_00 AM.png>)
 ## Architecture Overview
 
 Traffic flows through the environment like this:
