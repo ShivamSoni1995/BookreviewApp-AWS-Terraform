@@ -34,6 +34,8 @@ Traffic flows through the environment like this:
 6. A read replica is provisioned for database scalability and architecture practice.
 
 This separation keeps the backend and database off the public internet while still making the application accessible through a single public entrypoint.
+<img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 02_42_00 AM" src="https://github.com/user-attachments/assets/c421e5b5-460e-409e-ae54-5e0f587b3276" />
+
 
 ## Folder Layout
 
